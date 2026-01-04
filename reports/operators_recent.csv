@@ -1,0 +1,417 @@
+operator,accidents,category
+"A&C Big Sky Aviation, opb Trans-Pacific Jets",1,Private
+"ACT Airlines, opf Saudi Arabian",1,Commercial
+"ACT Airlines, opf Turkish Cargo",1,Cargo
+ASL - Air Service Liege,1,Commercial
+Abeer Air Services,1,Commercial
+AerCaribe Cargo,2,Cargo
+Aero Baires,1,Commercial
+Aeromedevac Air Ambulance,1,Commercial
+Aeronav Air Services,1,Commercial
+African Express Airways,1,Commercial
+Afriqiyah Airways,2,Commercial
+Air Algérie,1,Commercial
+Air America Flight Services,1,Commercial
+Air Astana,1,Commercial
+Air Canada,6,Commercial
+"Air Canada Express, opb Jazz Aviation",3,Commercial
+Air Canada Jetz,1,Private
+Air Canada Rouge,1,Commercial
+Air Cargo Carriers,2,Cargo
+Air Charter Express,1,Private
+Air Charter Scotland,1,Private
+Air Charter Services,1,Private
+Air China,2,Commercial
+Air Choice One,1,Commercial
+Air Colombia,1,Commercial
+Air Creebec,2,Commercial
+Air Djibouti,1,Commercial
+"Air Europa Express, opb",1,Commercial
+"Air Europa, opb Swiftair",1,Commercial
+Air Excel,1,Commercial
+Air Fast Congo,1,Commercial
+Air Flamenco,1,Commercial
+Air France,3,Commercial
+Air India Express,3,Commercial
+Air Inuit,2,Commercial
+Air Kasai,1,Commercial
+Air Katanga,1,Commercial
+Air Majoro,1,Commercial
+Air Mizia,1,Commercial
+Air Moldova,1,Commercial
+Air Namibia,1,Commercial
+Air Niugini,2,Commercial
+Air Peace,1,Commercial
+Air Sanga,1,Commercial
+Air Senegal,1,Commercial
+Air Serv Limited,1,Commercial
+"Air Serv Limited, opf UNHAS",1,Commercial
+Air Taxi Vanuatu,1,Commercial
+Air Tindi,2,Commercial
+"Air Tindi, opf RCAF",1,Commercial
+Air Tribe,1,Commercial
+Air Tunilik,1,Commercial
+Air Vanuatu,1,Commercial
+Air-Glaciers,1,Commercial
+Airco Aircraft Charters,1,Private
+"Aircraft Management Group, Inc",1,Commercial
+Airlink,1,Commercial
+Airwing,1,Commercial
+Alaska Air Fuel,1,Commercial
+Alaskan Air Charter,1,Private
+Alkan Air,2,Commercial
+Alliance Air Charter,1,Private
+Alpine Air Express,1,Commercial
+"Amazon Air, opb Atlas Air",1,Commercial
+American Airlines,13,Commercial
+"American Eagle, opb Envoy Air",2,Commercial
+"American Eagle, opb Mesa Airlines",1,Commercial
+"American Eagle, opb Republic Airlines",1,Commercial
+Ameristar Jet Charter,1,Private
+Andersen Air LLC,1,Commercial
+Anderson Air,1,Commercial
+Angara Airlines,2,Commercial
+Antonov Airlines,5,Commercial
+Asia Airways,1,Commercial
+Asia Continental Airlines,1,Commercial
+Asiana Airlines,2,Commercial
+Asure Air,1,Commercial
+Atlantic Air Cargo,1,Cargo
+Atlas Air,1,Commercial
+Auric Air,1,Commercial
+Austrian Airlines,2,Commercial
+Avia Jet LLC,1,Private
+Aviajet SA,1,Private
+Avione Jet,1,Private
+BBR Air,1,Commercial
+Bahamasair,1,Commercial
+Baires Fly,1,Commercial
+Bald Mountain Air Services,2,Commercial
+Bamaji Air,1,Commercial
+Banyan Jet Service,1,Private
+"Bearskin Airlines, opb Perimeter Aviation",1,Commercial
+"Beidahuang General Airlines, opf China Meteorological Administration",1,Commercial
+Beijing Capital Airlines,1,Commercial
+Bek Air,1,Commercial
+Bering Air,1,Commercial
+Berjaya Air,1,Commercial
+Bighorn Airways,2,Commercial
+Bismillah Airlines,1,Commercial
+Blue Air,1,Commercial
+Blue Wing Airlines,1,Commercial
+"Bluebird Cargo, opf ASL Airlines Belgium",1,Cargo
+Bocas Air,1,Commercial
+Bomac Air,1,Commercial
+Boydak Air,1,Commercial
+Bravo Airways,1,Commercial
+British Airways,1,Commercial
+Buffalo Airways,2,Commercial
+Bush Air Safaris,1,Commercial
+Business Jet Managers Inc,1,Private
+Calafia Airlines,1,Commercial
+Calm Air International,1,Commercial
+Caroline Islands Air,2,Commercial
+Caspian Airlines,2,Commercial
+Cavok Air,3,Commercial
+Cebu Pacific Air,1,Commercial
+Chair Airlines,1,Commercial
+Chartright Air,1,Commercial
+Chen Aircrafts,1,Commercial
+"Citywing, opb Van Air Europe",1,Commercial
+Colcharter,1,Private
+"CommutAir, opf United Express",1,Commercial
+Conair,2,Commercial
+Connair Consulting LLC,1,Commercial
+Conquest Air Cargo,1,Cargo
+Constanta Airlines,1,Commercial
+Copa Airlines,1,Commercial
+Corporate and Leisure Charters,1,Private
+"Cubana, lsf Global Air",1,Commercial
+Dabi Air Nusantara,1,Commercial
+Daily Air,1,Commercial
+Dana Air,1,Commercial
+Delta Air Lines,11,Commercial
+Delta Private Jets,2,Private
+Denver Air Connection,1,Commercial
+Desert-Air Safaris,1,Commercial
+Dimonim Air,1,Commercial
+Doren Air Congo,3,Commercial
+Duk Air Travel,1,Commercial
+ETA Air Charter,1,Private
+Eagle Air,2,Commercial
+Eagle Jet 300 LLC,1,Private
+East Coast Jets,1,Private
+Eastern Air Express,1,Commercial
+Eastern Air Services,1,Commercial
+Eastern Airways,1,Commercial
+Edelweiss Air,1,Commercial
+Edwards Jet Center,1,Private
+EgyptAir,1,Commercial
+Ellinair,1,Commercial
+"Endeavor Air, opf Delta Connection",2,Commercial
+Enggang Air Service,1,Commercial
+Estoair,1,Commercial
+Ethiopian Airlines,5,Commercial
+Europe Air,2,Commercial
+European Air Transport,1,Commercial
+"European Union, lsf AirTraffic Africa",1,Commercial
+Eva Air,1,Commercial
+Everts Air Cargo,3,Cargo
+Everts Air Fuel,1,Commercial
+Exploits Valley Air Services,1,Commercial
+"FedEx, opb CSA Air",1,Commercial
+"FedEx, opb Corporate Air",1,Commercial
+Finnair,1,Commercial
+Flamingo Air Charter,1,Private
+Flex Air Charters,1,Private
+Fly Air Africa Aviation,1,Commercial
+Fly Jamaica Airways,1,Commercial
+Freedom Airline,1,Commercial
+Freight Runners Express,2,Cargo
+Frontier Airlines,3,Commercial
+Galeyr Airline,1,Commercial
+Gem Air,1,Commercial
+Gemini Air Group,1,Commercial
+Georgia Jet,1,Private
+Golden Wings Charter,1,Private
+Gomair,2,Commercial
+Grand Canyon Airlines,2,Commercial
+Grodno Aircompany,1,Commercial
+H&S Air,1,Commercial
+Haedo Air LLC,1,Commercial
+Harbour Air,2,Commercial
+Hawaiian Airlines,2,Commercial
+Hesnes Air,1,Commercial
+Hog Air Aviation,1,Commercial
+Horizon Air,1,Commercial
+"Horizon Air, opf Alaska Airlines",1,Commercial
+ITA Airways,1,Commercial
+Icelandair,1,Commercial
+IndiGo Airlines,1,Commercial
+International Air Response,1,Commercial
+"Iran AF, op.for Saha Air",1,Commercial
+Iran Air,2,Commercial
+Iran Aseman Airlines,1,Commercial
+Island Airways,1,Commercial
+Island Express Air,1,Commercial
+JRM Air LLC,1,Commercial
+Jet It LLC,1,Private
+Jet Sales LLC,1,Private
+Jet2,2,Private
+JetBlue Airways,1,Private
+Jetleg Management,1,Private
+Jetport,1,Private
+Jett Aircraft,1,Private
+Jhonlin Air Transport,1,Commercial
+Ju-Air,1,Commercial
+Jubba Airways,1,Commercial
+Kalitta Air,2,Commercial
+Kalitta Charters,2,Private
+Kamaka Air,1,Commercial
+Kapowsin Air Sports,1,Commercial
+"Kapowsin Air Sports, opf Skydive San Diego",1,Commercial
+Kazairtrans Airline,1,Commercial
+Kazakhstan Air Defence Force,1,Commercial
+Keewatin Air,2,Commercial
+Kenya Airways,2,Commercial
+Key Lime Air,2,Commercial
+Korean Air,4,Commercial
+LATAM Airlines Brasil,1,Commercial
+Lake & Peninsula Airlines,1,Commercial
+Lake Clark Air,1,Commercial
+Lake Clark Air Services,1,Commercial
+Legacy Air LLC,1,Commercial
+Libyan Air Cargo,1,Cargo
+Libyan Airlines,1,Commercial
+Lion Air,3,Commercial
+Lionair Inc.,2,Commercial
+"Lynden Air Cargo, opf PNG Air",1,Cargo
+MM-Air LLC,1,Commercial
+Mahan Air,1,Commercial
+Major Blue Air,1,Commercial
+Makalu Air,1,Commercial
+Makani Kai Air,1,Commercial
+Malaysia Airlines,1,Commercial
+Malta Air,1,Commercial
+Mandarin Airlines,1,Commercial
+Manta Air,1,Commercial
+Martinair Inc.,1,Commercial
+Martinaire,5,Commercial
+Mauritania Airlines International,1,Commercial
+Maya Island Air,1,Commercial
+Meander Air II,1,Commercial
+Med Air,1,Commercial
+Med Air Inc,1,Commercial
+Mega Aircompany,1,Commercial
+Miami Air International,1,Commercial
+Million Air San Juan,1,Commercial
+Mistral Air,1,Commercial
+Mokulele Airlines,1,Commercial
+Morningstar Air Express,1,Commercial
+"Mountain Air Cargo, opf FedEx",1,Cargo
+Myanmar National Airlines,1,Commercial
+Naryan-Mar Air Enterprise,2,Commercial
+Nature Air,1,Commercial
+Nippon Cargo Airlines,1,Cargo
+Nok Air,1,Commercial
+Nordwind Airlines,1,Commercial
+North Star Air,2,Commercial
+"North Star Air, opb Private Air",1,Private
+North-Wright Airways,1,Commercial
+Northwestern Air,1,Commercial
+Norwegian Air UK,1,Commercial
+Novair,1,Commercial
+Omni Air International,3,Commercial
+Onur Air,1,Commercial
+"Optimum Aviation, opf Euro Airlines",1,Commercial
+Oriental Air Bridge,1,Commercial
+Overland Airways,1,Commercial
+OzAir Charter Service,1,Private
+Ozark Air Services,1,Commercial
+PACC Air,1,Commercial
+PAL Airlines,1,Commercial
+"PAL Airlines, opf EHS LifeFlight Services",1,Commercial
+PB Air LLC,1,Commercial
+PSA Airlines,1,Commercial
+"PSA Airlines, opf American Eagle",4,Commercial
+Parachutisme Nouvel Air,1,Commercial
+Pegasus Airlines,2,Commercial
+PenAir,1,Commercial
+Penial Air,1,Commercial
+"Penial Air, opf Sigale Air",1,Commercial
+Peruvian Airlines,2,Commercial
+Philippine Air Lines,1,Commercial
+Phoenix Air,1,Commercial
+Pineapple Air,1,Commercial
+Pinnacle Air Charter,1,Private
+"Platinum Jet Co., Ltd.",1,Private
+Precision Air,1,Commercial
+Priority Air Charter,1,Private
+Private,2,Private
+Private Airlines Germany,1,Private
+Private Jets,1,Private
+Pro by Air,1,Commercial
+ProAir,1,Commercial
+Qatar Airways,1,Commercial
+Qatar Airways Cargo,1,Cargo
+Qeshm Air,1,Commercial
+RED Air,1,Commercial
+Remonia Air,1,Commercial
+"Republic Airlines, opf Delta Connection",1,Commercial
+Rimbun Air,1,Commercial
+"Rimbun Air, opb Carpediem Aviation",1,Commercial
+Ritch Air,1,Commercial
+Roraima Airways,1,Commercial
+Rovos Air,1,Commercial
+Royal Air Freight,1,Cargo
+Ryan Air Service,1,Commercial
+Ryanair,3,Commercial
+S7 Airlines,1,Commercial
+SA Airlink,1,Commercial
+SVG Air,1,Commercial
+"Safari Express Airways, opf UN WFP",1,Commercial
+Safe Air Company (SAC),1,Commercial
+Saratov Airlines,1,Commercial
+"Saudi Arabian, lsf ACT Airlines",1,Commercial
+"Saudi Arabian, lsf Onur Air",1,Commercial
+"Saudi Arabian, opb ACT Airlines",1,Commercial
+Seair Seaplanes,2,Commercial
+Serve Air,3,Commercial
+Shelter Charter Services,1,Private
+Sierra West Airlines,2,Commercial
+Sigma Airlines,1,Commercial
+Silver Air,1,Commercial
+Silverstone Air Services,1,Commercial
+"Silverstone Air Services, opf Saacid Airlines",1,Commercial
+Singapore Airlines,1,Commercial
+Sky Lease Cargo,1,Cargo
+"SkyWest Airlines, op.for United Express",1,Commercial
+"SkyWest Airlines, opf American Eagle",3,Commercial
+Skyjet Aviation,1,Private
+Skymark Airlines,1,Commercial
+SmartLynx Airlines Estonia,1,Commercial
+Sociedad De Transporte Aéreo Movi Air SPA,1,Commercial
+Sourdough Air Service,1,Commercial
+South Sudan Supreme Airlines,1,Commercial
+South Supreme Airlines,1,Commercial
+"South West Aviation, lsf Slav-Air",1,Commercial
+Southwest Airlines,7,Commercial
+SpiceJet,1,Private
+SprintAir,1,Commercial
+Sriwijaya Air,2,Commercial
+Star Jet,2,Private
+Starjet Inc.,1,Private
+Stein's Aircraft Services,1,Commercial
+Strait Air,1,Commercial
+Summit Air,2,Commercial
+Sundance Airport FBO,1,Commercial
+Sunwing Airlines,1,Commercial
+Supreme Airlines,1,Commercial
+Swift Air,1,Commercial
+"Swiftair, opf West Atlantic (UK)",1,Commercial
+"TAP Express, opb White Airways",1,Commercial
+Taban Air,1,Commercial
+Tailwind Air Service,1,Commercial
+Talon Air,1,Commercial
+Taquan Air,2,Commercial
+Tara Air,3,Commercial
+"Tarco Air, opf Sudan Airways",1,Commercial
+Tarco Aircraft Funding,1,Commercial
+Tassili Airlines,1,Commercial
+Tatra Jet,1,Private
+Thai Airways International,1,Commercial
+Thunder Airlines,1,Commercial
+Tibet Airlines,1,Commercial
+Torres Strait Air,1,Commercial
+Trans Maldivian Airways,4,Commercial
+Transair (Cargo),1,Cargo
+Transwest Air,3,Commercial
+Tri-MG Airlines,1,Commercial
+Trigana Air Service,3,Commercial
+Tropic Air,1,Commercial
+Tropic Air Charters,1,Private
+Tropic Ocean Airways,1,Commercial
+Tropicair,1,Commercial
+Tropical Air,1,Commercial
+TruJet,1,Private
+True North Airways,1,Commercial
+US-Bangla Airlines,2,Commercial
+USMX AirLink,1,Commercial
+"UTair-Cargo, opf UN",1,Cargo
+Ukraine Air Alliance,1,Commercial
+Ukraine International Airlines,1,Commercial
+Uni Air,1,Commercial
+Union Gas Air Ventures I,1,Commercial
+United Aircraft Corporation,1,Commercial
+United Airlines,7,Commercial
+"United Express, opb Air Wisconsin",1,Commercial
+"United Express, opb Republic Airlines",2,Commercial
+"United Express, opb SkyWest Airlines",1,Commercial
+Unity Airlines,1,Commercial
+Ural Airlines,2,Commercial
+Utair,3,Commercial
+Valan Int'l Cargo,1,Cargo
+Verijet,1,Private
+Virgin Australia Airlines,1,Commercial
+VistaJet,1,Private
+Voyageur Airways,1,Commercial
+West Coast Air Services,1,Commercial
+WestJet,2,Private
+WestJet Encore,2,Private
+Western Air,2,Commercial
+Western Air Express,1,Commercial
+Westwind Air Service,1,Commercial
+Windward Express Airways,1,Commercial
+Wings Air,1,Commercial
+Wizz Air,1,Commercial
+World Atlantic Airlines,1,Commercial
+Worldwide Jet Charter,1,Private
+Wright Air Service,1,Commercial
+Xiamen Airlines,1,Commercial
+Yakutat Coastal Airlines,1,Commercial
+Yakutia Airlines,1,Commercial
+Yeti Airlines,1,Commercial
+ZAM Air Service,1,Commercial
+easyJet,3,Private
+easyJet Europe,1,Private
+private,107,Private

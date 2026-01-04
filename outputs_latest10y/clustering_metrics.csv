@@ -1,0 +1,3 @@
+algorithm,silhouette,ARI_vs_is_fatal,NMI_vs_is_fatal
+KMeans (k=2),0.1942,-0.0015,0.0
+"Agglomerative (Ward, k=2)",0.1942,-0.0015,0.0

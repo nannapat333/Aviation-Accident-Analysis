@@ -1,0 +1,4 @@
+model,TN,FP,FN,TP
+Random Forest (Calibrated),1470,58,313,55
+Neural Net (MLP),1347,181,203,165
+Naive Bayes (Gaussian),988,540,154,214

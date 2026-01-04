@@ -1,0 +1,15 @@
+{
+  "generated_at": "2025-09-15T07:29:12.927870Z",
+  "rows_total": 17153,
+  "year_range": [
+    1950,
+    2023
+  ],
+  "recent_scope_start": 2017,
+  "python_versions": {
+    "numpy": "1.24.4",
+    "pandas": "2.1.4",
+    "scipy": "1.11.4",
+    "statsmodels": "0.14.0"
+  }
+}

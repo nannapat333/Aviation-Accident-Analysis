@@ -1,0 +1,2 @@
+Poisson GLM accidents ~ year: coef=-0.0041, p=2.066e-30
+Overdispersion ratio: 8.38

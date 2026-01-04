@@ -1,0 +1,1 @@
+Chi-square across operator categories (2017+): chi2=473.55, p=1.478e-103, k=3

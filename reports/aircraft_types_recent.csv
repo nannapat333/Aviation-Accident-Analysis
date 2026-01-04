@@ -1,0 +1,516 @@
+type,accidents
+Cessna 208B Grand Caravan,76
+Antonov An-2R,33
+Beech 200 Super King Air,32
+DHC-6 Twin Otter 300,20
+Cessna 208 Caravan I,18
+Beech B200 Super King Air,16
+Learjet 35A,14
+DHC-8-402Q Dash 8,13
+Antonov An-2,13
+Beech B200 King Air,13
+BAe-125-700A,13
+Cessna 208B Supervan 900,12
+Antonov An-26,12
+Cessna 208B Super Cargomaster,12
+Airbus A320-214,11
+Antonov An-2T,10
+Cessna 208B Grand Caravan EX,10
+Fairchild SA227-AC Metro III,9
+Cessna 560 Citation Encore,9
+DHC-3T Vazar Turbine Otter,9
+Beech A100 King Air,8
+Honda HA-420 HondaJet,7
+Beech B300 King Air 350,7
+Beech B300 King Air 350i,7
+Cessna 550 Citation II,7
+Airbus A320-232,7
+Antonov An-26B,7
+Cessna 560XL Citation Excel,6
+Embraer Phenom 100,6
+Raytheon Beechjet 400A,6
+ATR 72-212A (ATR 72-600),6
+Antonov An-12BK,6
+Let L-410UVP,6
+Rockwell Sabreliner 65,6
+ATR 42-500,6
+BAe-125-800A,6
+BN-2A-26 Islander,5
+Embraer EMB-120ER Brasilia,5
+Fokker 50,5
+Let L-410UVP-E20,5
+Cessna 525 CitationJet,5
+Beech 1900D,5
+Boeing 737-823 (WL),5
+Let L-410UVP-E,5
+MD-83,5
+ATR 72-212A (ATR 72-500),5
+ATR 72-500 (72-212A),5
+Cessna 501 Citation I/SP,5
+Cessna 510 Citation Mustang,5
+Beech 1900C,4
+Gulfstream American G-1159A Gulfstream III,4
+Gulfstream Aerospace G-1159A Gulfstream III,4
+Boeing 737-7H4 (WL),4
+Fokker 100,4
+Cessna 525B CitationJet CJ3,4
+Cessna 525A CitationJet CJ2+,4
+Basler Turbo 67 (DC-3T),4
+Douglas DC-3C,4
+BAe-125,4
+Cessna 525C Citation CJ4,4
+Cessna 750 Citation X,4
+Gulfstream G200 Galaxy,4
+BN-2A-27 Islander,4
+Cirrus SF50 Vision Jet,4
+Gulfstream G150,4
+Boeing 737-8AS (WL),4
+Ilyushin Il-76TD,4
+Let L-410UVP-E3,4
+Airbus A321-231,4
+Airbus A320-214 (WL),4
+Airbus A321-231 (WL),4
+ATR 72-600 (72-212A),4
+Airbus A330-343,4
+Airbus A330-323,3
+Cessna S550 Citation S/II,3
+Beech 99A,3
+Learjet 60,3
+Cessna 560 Citation V,3
+DHC-3T Turbine Otter,3
+Lockheed C-130H Hercules,3
+Lockheed L-100-30 Hercules,3
+Beech 200 King Air,3
+Airbus A340-313,3
+Cessna 680 Citation Sovereign,3
+Beech C99,3
+Cessna 560XLS+ Citation XLS+,3
+Beech B200GT King Air 250,3
+DHC-6 Twin Otter 100,3
+Canadair CL-415,3
+Boeing 737-8HG (WL),3
+Boeing 787-8,3
+Swearingen SA226-TC Metro II,3
+Boeing 787-9,3
+Bombardier Challenger 300,3
+Bombardier Challenger 605,3
+Canadair CRJ-200ER,3
+Airbus A321-211 (WL),3
+Shijiazhuang Y-5B(D),3
+Airbus A319-111,3
+Airbus A319-114,3
+Rockwell Sabreliner 60,3
+Raytheon Hawker 800XP,3
+Cessna 551 Citation II/SP,3
+Learjet 55,3
+CASA C-212 Aviocar 200,3
+Embraer Phenom 300,3
+DHC-8-314 Dash 8,3
+IAI 1124A Westwind II,3
+Antonov An-28,3
+Embraer EMB-110P1 Bandeirante,3
+Hawker 800XP,3
+Avro RJ85,3
+Learjet 45,3
+Fairchild SA227-DC Metro 23,3
+Antonov An-124-100,3
+Gulfstream G-IV,3
+Boeing 757-223 (WL),2
+Bombardier DHC-8-402Q Dash 8,2
+Shorts 360-300,2
+Sukhoi Superjet 100-95B,2
+Cessna 208 Caravan,2
+Canadair Challenger 604,2
+Canadair Challenger 601,2
+Boeing 737-8H4 (WL),2
+Canadair Challenger 600,2
+Canadair CRJ-701ER,2
+Canadair CRJ-200LR,2
+Hawker 900XP,2
+Grumman G-1159 Gulfstream II SP,2
+Boeing 747-428FER,2
+Bombardier Challenger 604,2
+Boeing 737-8Q8 (WL),2
+Bombardier CRJ-701ER,2
+Boeing 737-924ER (WL),2
+Gulfstream American G-1159 Gulfstream II SP,2
+Harbin Y-12-II,2
+Boeing 767-3Q8ER,2
+Boeing 767-375ER,2
+Viking Air DHC-6 Twin Otter 400,2
+Boeing 757-251 (WL),2
+Boeing 757-224 (WL),2
+Boeing 747-412F,2
+Gulfstream American G-1159 Gulfstream II B,2
+Learjet 45XR,2
+Saab 340B,2
+IAI 1124 Westwind,2
+DHC-6 Twin Otter 200,2
+DHC-6 Vista Liner 300,2
+DHC-8-106,2
+DHC-3T Texas Turbine Otter,2
+Convair CV-580 Airtanker,2
+Cirrus SF50 Vision Jet G2,2
+DHC-8-202Q Dash 8,2
+Dassault Falcon 2000,2
+Learjet 36,2
+Learjet 31A,2
+Dassault Falcon 50,2
+Gulfstream G-IVSP,2
+Dassault Falcon 7X,2
+Dassault Falcon 900EX,2
+Dornier 228-201,2
+Cessna 650 Citation III,2
+Boeing 737-8F2 (WL),2
+Learjet 25D,2
+MD-88,2
+Learjet 25B,2
+IAI 1125 Astra SP,2
+PZL-Mielec M28 Skytruck,2
+Cessna 550 Citation Bravo,2
+Embraer ERJ 190AR (ERJ-190-100 IGW),2
+Embraer ERJ-175LR,2
+Cessna 525A CitationJet CJ2,2
+Cessna 525 CitationJet CJ1,2
+Saab 340A,2
+Learjet 55C,2
+Gulfstream G450,2
+AMI DC-3-65TP,2
+Antonov An-2P,2
+Beech Super King Air,2
+Antonov An-32B,2
+Airbus A320-251N,2
+Boeing 737-82R (WL),2
+BN-2B-26 Islander,2
+Airbus A321-211,2
+Boeing 737-524 (WL),2
+Boeing 737 MAX 8,2
+Airbus A321-271N,2
+Airbus A319-115 (WL),2
+Airbus A380-861,2
+BAe 3201 Jetstream 32EP,2
+Beech 300 Super King Air,2
+Beech B99,2
+Airbus A330-202,2
+Antonov TVS-2MS,2
+Beech 99,2
+Antonov An-32,2
+Airbus A320-271N,2
+Airbus A330-243,2
+ATR 42-320,2
+BAe 4100 Jetstream 41,2
+Antonov An-26B-100,2
+Boeing 737-4Q8 (SF),2
+Antonov An-26-100,2
+BAe-125-800B,2
+Airbus A300B4-203 (F),2
+Boeing 737-8BK (WL),2
+BN-2A-21 Islander,2
+Grumman American G-1159 Gulfstream IISP,1
+Hawker 800,1
+Antonov An-74T,1
+GAF Nomad N.22C,1
+Grumman C-2A Greyhound,1
+Grumman G-1159 Gulfstream II,1
+Fokker F-27 Friendship 600,1
+Hawker 1000,1
+Harbin Yunshuji Y-12E,1
+Antonov An-2SX,1
+Harbin Yunshuji Y-12 II,1
+Gulfstream G280,1
+Grumman G-73 Mallard,1
+Grumman HU-16C Albatross,1
+Antonov An-74-200,1
+Antonov An-72TK-100,1
+Harbin Y12E,1
+Antonov An-72P,1
+Antonov An-72,1
+Fokker F-27 Friendship 500,1
+Antonov An-2TP,1
+HS-125/BAe-125,1
+Antonov An-32A,1
+Antonov An-2V,1
+Gulfstream G200,1
+Antonov An-30M,1
+Gulfstream ?,1
+Boeing 737-8CT (WL),1
+Antonov An-74TK-100,1
+Embraer EMB-500 Phenom 100E,1
+Embraer EMB-145LR (ERJ-145LR),1
+Embraer EMB-145EP (ERJ-145EP),1
+Embraer EMB-120RT Brasilia,1
+Embraer EMB-110P2 Bandeirante,1
+BAe 4121 Jetstream 41,1
+Embraer EMB-110C Bandeirante,1
+Embraer C-95BM Bandeirante (EMB-110),1
+Embraer,1
+Eclipse EA-550,1
+Eclipse 500,1
+EO-5C (DHC-7-102),1
+BAe BAe-748-347 Srs. 2A,1
+Douglas DC-3,1
+Douglas C-54E (DC-4),1
+Douglas C-47B (DC-3),1
+Embraer EMB-145XR,1
+Embraer EMB-545 Legacy 450,1
+Antonov TR-301,1
+Embraer EMB-550 Legacy 500,1
+Fairchild SA227-AT Merlin IVC,1
+Fairchild SA227-AT Expediter,1
+Hawker Beech 390 Premier IA,1
+BAe 3201 Jetstream 32,1
+Embraer KC-390,1
+Embraer ERJ-190LR (ERJ-190-100 LR),1
+Embraer ERJ-190LR,1
+Embraer ERJ-190-100LR,1
+BAe 3212 Jetstream 31,1
+Embraer ERJ-175,1
+Embraer ERJ-170SE,1
+Embraer ERJ-145LR,1
+BAe 3212 Jetstream 32,1
+Embraer ERJ 190AR,1
+Embraer ERJ 170LR (ERJ-170-100 LR),1
+BAe 3101 Jetstream 31,1
+IAI 1125 Astra,1
+Hawker Siddeley HS-125,1
+MD-82,1
+Raytheon Hawker 850XP,1
+Raytheon 390 Premier IA,1
+Raytheon 390 Premier I,1
+PADC/BN-2A-26 Islander,1
+Airbus A321-213,1
+MD-87,1
+Airbus A321-251N,1
+MD-11F,1
+Airbus A320,1
+Lockheed WC-130H Hercules,1
+Lockheed P2V-5F Neptune,1
+Lockheed P-3C Orion,1
+Lockheed Martin KC-130J,1
+Lockheed KC-130T Hercules,1
+Lockheed KC-130J Hercules,1
+Lockheed Hercules C.4 (C-130J-30),1
+Airbus A320-211,1
+Rockwell Sabreliner 75A,1
+Lockheed C-130J-30 Super Hercules,1
+Shorts SC.7 Skyvan 3M-400,1
+Viking Air DHC-6-400 Twin Otter,1
+Tupolev Tu-204-100C,1
+Transall C-160NG,1
+ATR 72-202,1
+Swearingen SA226-AT Merlin IV,1
+Swearingen SA-226AT Merlin IV,1
+ATR 72-212,1
+Shorts SC.7 Skyvan 3-200,1
+Saab 2000,1
+ATR 72-212 (F),1
+Shorts 330-200,1
+Shaanxi Y-8GX-3,1
+Shaanxi Y-8F-200W,1
+Shaanxi Y-8,1
+Airbus A300B4-622R (F),1
+Saab 340AF,1
+Lockheed EC-130Q Hercules,1
+Lockheed C-130H3 Hercules,1
+Hawker Siddeley HS-125-400,1
+Ilyushin Il-18D,1
+Learjet,1
+Junkers Ju-52/3mg4e,1
+Ilyushin Il-78,1
+Antonov An-24RV,1
+Ilyushin Il-76MD,1
+Ilyushin Il-76,1
+Ilyushin Il-20M,1
+Ilyushin Il-112V,1
+Antonov An-22A,1
+IPTN/CASA CN-235M-100,1
+Douglas C-118A Liftmaster (DC-6A),1
+Antonov An-26KPA,1
+Antonov An-26Sh,1
+Hawker Siddeley HS-125-F400B,1
+Hawker Siddeley HS-125-700A,1
+Hawker Siddeley HS-125-600A,1
+Antonov An-24B,1
+Antonov An-225,1
+Lockheed C-130E Hercules,1
+Learjet 75,1
+Lockheed C-130BZ Hercules,1
+Lockheed C-130A Hercules,1
+Let L-410UVP-E9,1
+Airbus A330-203,1
+Airbus A330-302,1
+Airbus A330-303,1
+Let L-410MA,1
+Learjet 60XR,1
+Learjet 35,1
+Airbus A330-322,1
+Airbus A350-941,1
+Airbus CC-150 Polaris (A310-300),1
+Antonov An-12A,1
+Learjet 40XR,1
+Antonov An-12B,1
+Antonov An-148-100B,1
+Douglas C-47A (DC-3),1
+Dassault Falcon 900B,1
+Dornier 328JET-310,1
+Boeing 767-375ER (BCF) (WL),1
+Boeing C-17A Globemaster III,1
+Boeing B-17G Flying Fortress,1
+Boeing 737-7BD (WL),1
+Boeing 737-7M2 (WL),1
+Boeing 777-FDZ,1
+Boeing 777-F60,1
+Boeing 777-3F2ER,1
+Boeing 777-3B5ER,1
+Boeing 777-36NER,1
+Boeing 777-367ER,1
+Boeing 777-35EER,1
+Boeing 777-333ER,1
+Boeing 777-2B5ER,1
+Boeing 777-228ER,1
+Boeing 777-212ER,1
+Boeing 767-3S2FER,1
+Boeing 737-81D (WL),1
+Bombardier BD-100 Challenger 350,1
+Bombardier CRJ-200LR,1
+Boeing 737-76J (WL),1
+Bombardier Global 5000,1
+CC-138 Twin Otter (DHC-6),1
+CASA C-212 Aviocar 300,1
+ATR 42-300,1
+CASA C-212 Aviocar,1
+Britten Norman BN-2A-8 Islander,1
+Bombardier Global Express,1
+Bombardier Global 6000,1
+Bombardier E-11A (Global Express),1
+Bombardier CRJ-702ER,1
+Boeing 737-529,1
+Boeing 737-53C,1
+Boeing 737-73S (WL),1
+Bombardier CRJ-900LR (CL-600-2D24),1
+Bombardier CRJ-900LR,1
+Bombardier CRJ-900ER,1
+Bombardier CRJ-900,1
+Boeing 767-38EER,1
+Boeing 737-81Q (WL),1
+Dornier 228-202,1
+Boeing 767-33AER,1
+Boeing 737-9GPER (WL),1
+Boeing 737-9B5,1
+Boeing 737-85R,1
+Boeing 737-8V3 (WL),1
+Boeing 737-86J (WL),1
+Boeing 737-8LJ (WL),1
+Boeing 737-8KV (WL),1
+Boeing 737-8K5 (WL),1
+Boeing 737-8K2 (WL),1
+Boeing 737-86N (WL),1
+Boeing 737-8HC (WL),1
+Boeing 737-8H6 (WL),1
+Boeing 737-89P (WL),1
+Boeing 737-8GP (WL),1
+Boeing 737-8GJ (WL),1
+Boeing 737-8FH (WL),1
+Boeing 737-8EH (WL),1
+Boeing 747-406M,1
+Boeing 747-412 (BCF),1
+Boeing 737-85C (WL),1
+Boeing 757-256 (WL),1
+Boeing 767-338ER (WL),1
+Boeing 767-333ER (WL),1
+Boeing 767-332ER (WL),1
+Boeing 767-324ER,1
+Boeing 757-324 (WL),1
+Boeing 757-2B7 (WL),1
+Boeing 757-27A (PCF),1
+Boeing 737-824 (WL),1
+Boeing 747-412F (SCD),1
+Boeing 757-23N,1
+Boeing 737-832 (WL),1
+Boeing 757-21B,1
+Boeing 747SP-21,1
+Boeing 747-8KZF,1
+Boeing 747-4B5F,1
+Boeing 737-838 (WL),1
+Canadair CL-215,1
+Boeing 737-4Y0,1
+Canadair CL-600S Challenger 600,1
+Boeing 737-4Q8,1
+DHC-7-110,1
+BN-2B-27 Islander,1
+BN-2T Islander,1
+DHC-6 Twin Otter 200HG,1
+Basler Turbo 67,1
+Beech 100 King Air,1
+DHC-3T/M601 Turbine Otter,1
+Beech 1900C-1,1
+Beech 200C Super King Air,1
+Beech 200T Super King Air,1
+DC-9-33F,1
+Curtiss C-46F,1
+Convair CV-580F,1
+Convair CV-440,1
+Convair CV-340,1
+Convair C-131B Samaritan,1
+Beech 300 Super King Air 350,1
+DHC-8-102 Dash 8,1
+DHC-8-200,1
+DHC-8-202Q,1
+BN-2A-3 Islander,1
+Dornier 228-101,1
+BN-2A Islander,1
+Boeing 737-8E9 (WL),1
+BN-2A-20 Islander,1
+Dassault Falcon 20D,1
+Dassault Falcon 20C,1
+Dassault Falcon 2000EX,1
+Dassault Falcon 200,1
+BN-2A-9 Islander,1
+DHC-8-402QPF Dash 8,1
+BN-2A-6 Islander,1
+DHC-8-402Q (PF) Dash 8,1
+DHC-8-315Q MPA,1
+DHC-8-315Q Dash 8,1
+BN-2A-8 Islander,1
+DHC-8-311 Dash 8,1
+Beech 400A Beechjet,1
+Cessna F406 Caravan II,1
+Cessna AC-208B Combat Caravan,1
+Cessna 208 Cargomaster,1
+Cessna 500 Citation I Sierra Eagle,1
+Boeing 737-33A (WL),1
+Boeing 737-36N (WL),1
+Boeing 737-3H4 (WL),1
+Boeing 737-3M8,1
+Cessna 208 Supervan 900,1
+Cessna 208 Supervan,1
+Boeing 737-3M8 (QC),1
+Boeing 737-332,1
+Cessna 208 Caravan 675,1
+Boeing 737-3Z0,1
+Boeing 737-401,1
+Canadair Challenger 601-3A,1
+Boeing 737-436 (SF),1
+Boeing 737-476 (SF),1
+Boeing 737-4H6,1
+Boeing 737-33A,1
+Cessna 525 Citation M2,1
+Beech B100 King Air,1
+Boeing 717-2BD,1
+Cessna 680A Citation Latitude,1
+Cessna 650 Citation VII,1
+Beech Beechjet 400A,1
+Beech LR-2 (B300 King Air 350),1
+Cessna 560XL Citation XLS,1
+Beriev Be-200ChS,1
+Boeing 707-3J9C,1
+Boeing 727-2B6F Adv.,1
+Boeing 737-330 (QC),1
+Cessna 525 CitationJet,1
+Boeing 737-201,1
+Boeing 737-275C Adv.,1
+Boeing 737-301 (BDSF),1
+Boeing 737-301 (SF),1
+Cessna 525 CitationJet CJ1+,1
+Boeing 737-322 (SF),1
+Viking DHC-6 Twin Otter 400,1

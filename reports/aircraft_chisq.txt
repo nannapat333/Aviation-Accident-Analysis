@@ -1,0 +1,1 @@
+Chi-square across aircraft types (>=5 accidents, 2017+): chi2=574.20, p=2.97e-91, k=49
